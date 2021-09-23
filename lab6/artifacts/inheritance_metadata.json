@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "parent",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab6/inheritance.sol": "inheritance"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab6/inheritance.sol": {
+			"keccak256": "0x78105c3fcf9340711bd68b925e919db2285d00df36c5725dd777b3a69a522e72",
+			"urls": [
+				"bzzr://218518dd87e0846da5873e1251f0279fad6eb2f2e50e9e6744696fe76839ccf3"
+			]
+		}
+	},
+	"version": 1
+}

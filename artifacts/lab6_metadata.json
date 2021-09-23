@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "testArray",
+				"outputs": [
+					{
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab6 bonus.sol": "lab6"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab6 bonus.sol": {
+			"keccak256": "0xba4ed016639cf46f5eb1debe883b798056c488a42b71b8d602d2c296c38f7b58",
+			"urls": [
+				"bzzr://6f54f8607cb342d3790b6f6d243be716c88bf3b24ecc764fcf114f116dfff7d6"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,56 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "n",
+						"type": "int256"
+					}
+				],
+				"name": "checkOddOrEven",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab6Q3.sol": "q3"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab6Q3.sol": {
+			"keccak256": "0x64823de8e12c0169fc6771ea6a480c743f92d4d8da5c2f2c73eb7413f951cdd5",
+			"urls": [
+				"bzzr://79ca160edea7fba588965ebbe9f684399e98df510005f9273377a1c64e67ad06"
+			]
+		}
+	},
+	"version": 1
+}

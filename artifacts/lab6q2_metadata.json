@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getresult",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab6q2.sol": "lab6q2"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab6q2.sol": {
+			"keccak256": "0x45cfe924805e20b5c029c914784906ef93db97f477cc22509f0c8e98341a9710",
+			"urls": [
+				"bzzr://39a6b97fa57a192fa47f4ea3f172245ff6a7d10f797299acd49e3331ed138924"
+			]
+		}
+	},
+	"version": 1
+}
